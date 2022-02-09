@@ -1,0 +1,14 @@
+{
+  "1": {
+    "py/object": "Domain.carte.Carte",
+    "id_entity": "1",
+    "titlu": "Abc",
+    "categorie": "audiobook",
+    "nr_pagini": 230,
+    "pret": 25.0,
+    "list_autori": [
+      "Ion Creanga Mihai Eminescu",
+      "Mihai Eminescu"
+    ]
+  }
+}
